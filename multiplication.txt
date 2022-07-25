@@ -1,0 +1,10 @@
+Take a number as input and print the multiplication table for it.
+
+Pseudocode:
+
+
+input = 2
+for(i=1; i<10; i++){
+input * i)
+
+}
