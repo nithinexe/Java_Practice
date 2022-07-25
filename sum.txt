@@ -1,0 +1,13 @@
+Create flowchart and pseudocode for the following:
+
+2. Take two numbers and print the sum of both.
+
+Pseudocode:
+Start -> Take Variable -> Input -> Add variables -> Display Sum -> end.
+
+Flowchart:
+1. Start
+2. Input
+3. Sum
+4. Output
+5. End

@@ -1,0 +1,15 @@
+Assignment 1:
+Create a flowchart and pseudocode for the following:
+
+1. Input a year and find whether it is a leap year or not.
+Pseudocode:
+Start -> Take Input as year -> One year has 12 365 days -> if it have 366 it is leap year or else it is not.
+
+Flow Chart
+1. Start
+2. Input
+3. Condition (if)
+4. 365== Leap Year
+5.Condition(else)
+6. Not a leap year.
+7. End
