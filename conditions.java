@@ -24,7 +24,13 @@ public class conditions {
             int salary2 = salary + 2000;
             System.out.println(salary2);
         }
-        else{
+        else if(salary==9999){
+            salary +=20000;
+            System.out.println("Heheyy You got a bonus" + salary);
+        }
+        
+        
+        else {
             System.out.println("your salary is the same " + salary);
         }
     }
